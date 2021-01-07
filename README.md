@@ -2,9 +2,9 @@
 
 Tachnican in charge of Scada (Siemens Simatic) wanted help from me. 
 
-problem : He prepare xls table about electrik panel map for electricic technician. He need to write every cell with hand one by one. This operation takes approximately 4 hours. I tried to decrease this preparing time 2 second.
+<b>Problem:</b> He prepare xls table about electrik panel map for electricic technician. He need to write every cell with hand one by one. This operation takes approximately 4 hours. I tried to decrease this preparing time 2 second.
 
-Program Steps: 
+<b>Program Steps:</b> 
 
 <ul>
   <li>Pandas read .cfg file in lines</li>
