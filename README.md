@@ -18,10 +18,10 @@ Program Steps:
   <li> I used PyQT5 for design interface in another python file in the name"cfg_to_xls.py" </li>
   <li> I brought an exe file to py files with "pyinstaller"</li>
 </ul>
-
-<ul>
+<hr>
   <em>
-  <li>Aydin Aktar</li>
-  <li>Mİneral Processing Engineer</li>
+  Aydin Aktar
+  <br>
+  Mİneral Processing Engineer</li>
   </em>
-</ul>
+
