@@ -2,7 +2,7 @@
 
 Tachnican in charge of Scada (Siemens Simatic) wanted help from me. 
 
-<b>Problem:</b> He prepare xls table about electrik panel map for electricic technician. He need to write every cell with hand one by one. This operation takes approximately 4 hours. I tried to decrease this preparing time 2 second.
+<b>Problem:</b> Technician needs to prepare xls table about panel map for electricic technician. He need to write every cell with hand one by one. This operation takes approximately 4 hours. I tried to decrease this preparing time to 2 second.
 
 <b>Program Steps:</b> 
 
@@ -16,7 +16,7 @@ Tachnican in charge of Scada (Siemens Simatic) wanted help from me.
   </ul>
   <li>I concat whole seperated data and record it as an xls file</li>
   <li> I used PyQT5 for design interface in another python file in the name"cfg_to_xls.py" </li>
-  <li> I brought an exe file to py files with "pyinstaller"</li>
+  <li> I brought .py files to the type of .exe file with "pyinstaller"</li>
 </ul>
 <hr>
   <em>
@@ -25,3 +25,7 @@ Tachnican in charge of Scada (Siemens Simatic) wanted help from me.
   Mİneral Processing Engineer</li>
   </em>
 
+
+Problem: 
+
+Program Steps:    
